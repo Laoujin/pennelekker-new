@@ -8,7 +8,7 @@ body {
 
 #contact {
 	position: absolute;
-	top: 60px;
+	top: 20px;
 	left: 350px;
 }
 
@@ -18,7 +18,7 @@ body {
 	font-size: 26px;
 
 	position: relative;
-	left: 220px;
+	left: 200px;
 	top: -180px;
 }
 
@@ -33,7 +33,7 @@ body {
 	font-size: 24px;
 
 	position: absolute;
-	top: 300px;
+	top: 250px;
 	left: 450px;
 
 	width: 350px;
