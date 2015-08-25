@@ -13,7 +13,7 @@ body {
 }
 
 #contact div {
-	font-family: "Book Antiqua";
+	font-family: "Open Sans";
 	font-weight: bold;
 	font-size: 26px;
 
@@ -23,17 +23,28 @@ body {
 }
 
 #contact span {
-	font-family: "Government Agent BB";
+	font-family: "Bree Serif";
 	color: red;
 }
 
-#content {
-	font-family: "Book Antiqua";
-	font-weight: bold;
+h1 {
+	font-family: 'Bree Serif', Georgia, serif;
 	font-size: 24px;
+	color: #4899B6;
+}
+
+h1 small {
+	padding-left: 20px;
+	/*float: right;*/
+}
+
+#content {
+	font-family: "Open Sans";
+	font-weight: bold;
+	font-size: 18px;
 
 	position: absolute;
-	top: 250px;
+	top: 230px;
 	left: 450px;
 
 	width: 350px;
